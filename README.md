@@ -394,6 +394,6 @@ python scripts/Checkqdrant.py
 ## Author
 
 **PrashantKumar Sundge**  
-Principal AI Engineer | Agentic AI  | Enterprise Data Management  
+Principal AI Engineer | Agentic AI   
 CONNX 2026 — SharePoint AI Chatbot Project  
 *Built June 2026*
