@@ -1,7 +1,7 @@
 # SharePoint Knowledge Assistant
 ### Enterprise Multimodal RAG Chatbot with Microsoft Entra ID SSO
 
-> Built by Pravin Kumar Sundge — Senior Technical Lead | CONNX 2026  
+> Built by Prashant Kumar Sundge — Principal AI Engineer | CONNX 2026  
 > Stack: React 19 · FastAPI · LangGraph · Qdrant · GPT-4o-mini · MSAL v5
 
 ---
@@ -393,7 +393,7 @@ python scripts/Checkqdrant.py
 
 ## Author
 
-**Pravin Kumar Sundge**  
-Senior Technical Lead | Informatica MDM | IDMC | Enterprise Data Management  
+**PrashantKumar Sundge**  
+Principal AI Engineer | Agentic AI  | Enterprise Data Management  
 CONNX 2026 — SharePoint AI Chatbot Project  
 *Built June 2026*
